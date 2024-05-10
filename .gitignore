@@ -1,0 +1,60 @@
+# Carpeta binaria generada por compilación
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Paquetes de NuGet
+*.nuget.props
+*.paket.restore.log
+packages/
+*.nupkg
+*.dll
+
+# Archivos de dependencias y caché de herramientas
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.swp
+
+# Archivos de compilación y salida generados
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Archivos de usuario y respaldo
+*.log
+*.bak
+*.cache
+*.tmp
+
+# Archivos de configuración personalizados
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de la base de datos
+*.mdf
+*.ldf
+
+# Carpeta de archivos de publicación
+publish/
