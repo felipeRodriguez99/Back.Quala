@@ -40,11 +40,6 @@ bld/
 *.cache
 *.tmp
 
-# Archivos de configuración personalizados
-appsettings.json
-appsettings.Development.json
-appsettings.Production.json
-
 # Archivos de entorno
 .env
 .env.local
